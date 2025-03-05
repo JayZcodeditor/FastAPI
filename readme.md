@@ -1,6 +1,6 @@
 # FastAPI Project
 
-![FastAPI](https://www.cdnlogo.com/logos/f/49/fastapi.svg))
+<img src="https://www.cdnlogo.com/logos/f/49/fastapi.svg" alt="FastAPI" width="200"/>
 
 This is a simple FastAPI project that demonstrates the use of FastAPI for building a RESTful API.
 
