@@ -1,6 +1,6 @@
 # FastAPI Project
 
-![FastAPI]([https://fastapi.tiangolo.com/img/logo/logo.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRV4ql1teyN_ltv-uThTTZhsUEhRJavBBj5g&s))
+![FastAPI](https://www.cdnlogo.com/logos/f/49/fastapi.svg))
 
 This is a simple FastAPI project that demonstrates the use of FastAPI for building a RESTful API.
 
